@@ -1,0 +1,13 @@
+# Python & caches
+__pycache__/
+*.py[cod]
+.venv/
+
+# Reference benchmark mesh & graphify
+3DBenchy.stl
+graphify-out/
+
+# OS / Editors
+.DS_Store
+.idea/
+.vscode/
